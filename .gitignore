@@ -1,0 +1,8 @@
+# Editor configs
+/.idea
+
+# Exercism
+.exercism
+node_modules
+*.md
+yarn.lock
