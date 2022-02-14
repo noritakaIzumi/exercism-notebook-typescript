@@ -9,3 +9,4 @@ yarn.lock
 .eslint*
 *.config.js
 *.json
+*.cjs
